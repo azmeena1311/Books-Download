@@ -9,3 +9,8 @@ This application is for downloading pdf version of novel by making Payment throu
 
 ![Capture](https://user-images.githubusercontent.com/64145252/102105077-f4ca3680-3e54-11eb-956f-f14da6ed15e3.PNG)
 
+
+
+![Capture](https://user-images.githubusercontent.com/64145252/102105220-26db9880-3e55-11eb-9c9b-bc689af06a57.PNG)
+
+
