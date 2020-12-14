@@ -1,6 +1,6 @@
 # Books-Download
 
-This application is for downloading pdf version of novel by making Payment through Instamojo.
+This Django application is for downloading pdf version of novel by making Payment through Instamojo.
 
 1. Home Page
 
